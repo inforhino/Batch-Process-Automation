@@ -1,6 +1,8 @@
 # Batch-Process-Automation
 This is a repository where settings, examples, and configuration will be added. We created a dotnet/,Net set of applications for discovering and executing processes in an unopinionated way.
 
+As always, check out our website www.inforhino.co.uk to find out more about our work and projects.
+
 ## Processor and Executor Processor automation overview
 Automating processing of applications and processes - orchestration is very complicated, highly semantic, and challenging when trying to reach consensus on the right way forward. Furthermore, maintaining it can be very complicated.  From experience of consulting to enterprises - orchestration is the last thing developers care about is orchestrating their processes. At the same time, developers present blackboxes to testers, DevOps, and Ops/Operations and don't like it when their carefully laid plans gets ruined on. 
 
